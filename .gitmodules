@@ -1,0 +1,9 @@
+[submodule "00"]
+	path = 00
+	url = git@github.com:sathonay/cpp00
+[submodule "01"]
+	path = 01
+	url = git@github.com:sathonay/cpp01
+[submodule "02"]
+	path = 02
+	url = git@github.com:sathonay/cpp02
